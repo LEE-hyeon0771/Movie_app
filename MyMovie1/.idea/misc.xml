@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyDrawer/app/src/main/res/layout/activity_main.xml" value="0.3523076923076923" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyDrawer/app/src/main/res/layout/fragment_first.xml" value="0.3523076923076923" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyDrawer/app/src/main/res/layout/fragment_second.xml" value="0.3523076923076923" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyDrawer/app/src/main/res/layout/fragment_third.xml" value="0.3523076923076923" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyDrawer/app/src/main/res/layout/nav_header.xml" value="0.3523076923076923" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyDrawer/app/src/main/res/menu/nav_menu.xml" value="0.3523076923076923" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyMovie1/app/src/main/res/drawable/thumbnail_base.xml" value="0.1" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyMovie1/app/src/main/res/layout/activity_main.xml" value="0.3476923076923077" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyMovie1/app/src/main/res/layout/fragment_first.xml" value="0.3476923076923077" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyMovie1/app/src/main/res/layout/fragment_second.xml" value="0.2175925925925926" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyMovie1/app/src/main/res/layout/fragment_third.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyMovie1/app/src/main/res/layout/nav_header.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyMovie1/app/src/main/res/layout/page.xml" value="0.2175925925925926" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects-Kotlin/MyMovie1/app/src/main/res/menu/nav_menu.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
